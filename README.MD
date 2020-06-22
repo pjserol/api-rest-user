@@ -1,4 +1,4 @@
-# User API Lambda
+# REST API
 
 ## Environment Variables
 
